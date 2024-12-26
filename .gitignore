@@ -1,18 +1,4 @@
-# Express.js (server-side)
+node_modules/
+public/images/*
+!public/images/.gitkeep
 .env
-node_modules/
-logs/
-.DS_Store
-Thumbs.db
-npm-debug.log
-.vscode/
-.idea/
-
-# React (client-side)
-node_modules/
-.git 
-.DS_Store
-Thumbs.db
-build/
-.vscode/
-.idea/
